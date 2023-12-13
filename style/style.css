@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {	
+	font-size: 50px;
+}
+.glavnidiv {
+	float: left;
+	background-color: blue;
+	width:	5rem;
+	height: 3rem;
+}
+.div2 {
+	margin-bottom: 1rem;
+	float: left;
+	clear: left;
+	background-color: #5F4B9E;
+	width:	5rem;
+	height: 3rem;
+}
+.div3 {
+	float: left;
+	background-color: blue;
+	width:	5rem;
+	height: 3rem;
+}
+.div4 {
+	clear: left;
+	float: left;
+	background-color: blue;
+	width:	6rem;
+	height: 4rem;
+}
+.div5 {
+	float:	right;
+	background-color: blue;
+	width:	5rem;
+	height: 3rem;
+}
+.div6 {
+	clear: both;
+	float: right;
+	background-color: #5F4B9E;
+	width:	5rem;
+	height: 3rem;
+}
